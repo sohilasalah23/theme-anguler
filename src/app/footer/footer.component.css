@@ -1,0 +1,21 @@
+.footer {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background-color: #2c3e50;
+    color: #fff;
+  }
+  .socialicon{
+    border-radius: 100%;
+    width: 3rem;
+    height: 3rem;
+   font-size: 1rem;
+   display: inline-flex;
+     justify-content: center;
+  align-items: center;
+}
+.socialicon:hover i{
+    color: black;
+}
+.copyright {
+    background-color: #1a252f;
+  }

@@ -1,0 +1,40 @@
+.form-control::placeholder {
+    color: #6c757d
+  }
+   .inputdesign , .inputdesign  {
+    position: relative;
+    border-bottom: 1px solid #ced4da ;
+
+  } 
+  .form-group input,.form-group textarea{
+    border: none;
+  }
+
+  button{
+    color: #fff;
+    background-color: #1abc9c;
+    border-color: #1abc9c;
+    padding: 1rem;
+  }
+  button:hover {
+    background-color: #159a80;
+    border-color: #148f77;
+  }
+  .form-group label{
+    position: relative;
+    color: #148f77;
+    transition: all 1s;
+
+   
+  }
+  ._top{
+    top: 2.5em !important;
+  
+
+  }
+  .form-control:focus{
+    box-shadow:none;
+  }
+
+
+  
